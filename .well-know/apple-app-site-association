@@ -1,0 +1,19 @@
+{
+  "webcredentials": {
+    "apps": [
+      "6X89GQD8QJ.app.chainpulse.com.PassKeyDemo"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6X89GQD8QJ.app.chainpulse.com.PassKeyDemo",
+        "paths": [
+          "/passkey/*",
+          "/auth/*"
+        ]
+      }
+    ]
+  }
+}
